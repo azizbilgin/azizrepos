@@ -1,0 +1,345 @@
+.property-default {
+  width: 2065px;
+  height: 2332px;
+  background-color: rgba(255, 255, 255, 1);
+  background: linear-gradient(180deg, rgb(203, 208, 220) 0%, rgb(138.84, 148.13, 170.43) 100%);
+}
+
+.property-default .frame {
+  position: relative;
+  width: 1467px;
+  height: 1704px;
+  top: 208px;
+  left: 250px;
+  background-color: #ffffff;
+  border-radius: 71px;
+  box-shadow: 0px -56.08px 236px #707a9199;
+}
+
+.property-default .div {
+  position: absolute;
+  width: 1330px;
+  height: 667px;
+  top: 335px;
+  left: 69px;
+  background-color: #ffffff;
+  border-radius: 40px;
+  border: 6px dashed;
+  border-color: #cbd0dc;
+}
+
+.property-default .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 919px;
+  align-items: center;
+  gap: 74px;
+  position: absolute;
+  top: 107px;
+  left: 206px;
+}
+
+.property-default .group {
+  position: relative;
+  width: 71px;
+  height: 71px;
+}
+
+.property-default .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 23px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .choose-a-file-or {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.5px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #292d32;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #a9abb4;
+  font-size: 40.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .div-wrapper {
+  display: flex;
+  width: 360px;
+  height: 106px;
+  align-items: center;
+  justify-content: center;
+  gap: 15.58px;
+  padding: 24.92px 51.4px;
+  position: absolute;
+  top: 453px;
+  left: 485px;
+  background-color: #ffffff;
+  border-radius: 24.92px;
+  overflow: hidden;
+  border: 3.12px solid;
+  border-color: #cbd0dc;
+}
+
+.property-default .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -3.px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #54575c;
+  font-size: 46px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .frame-4 {
+  display: flex;
+  flex-direction: column;
+  width: 1467px;
+  height: 146px;
+  align-items: flex-start;
+  gap: 15.58px;
+  padding: 0px 68.53px;
+  position: absolute;
+  top: 59px;
+  left: 0;
+}
+
+.property-default .frame-5 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 169.78px 169.78px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  gap: 46px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .img {
+  position: relative;
+  width: 146.41px;
+  height: 146.41px;
+}
+
+.property-default .frame-7 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9.35px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.56px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #292d32;
+  font-size: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .p {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #a9abb4;
+  font-size: 45.2px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .group-2 {
+  position: relative;
+  width: 46.73px;
+  height: 46.73px;
+}
+
+.property-default .vuesax-outline-close {
+  position: absolute;
+  width: 50px;
+  height: 52px;
+  top: 0;
+  left: -2px;
+}
+
+.property-default .vector {
+  position: absolute;
+  width: 1467px;
+  height: 5px;
+  top: 203px;
+  left: 0;
+}
+
+.property-default .frame-wrapper {
+  position: absolute;
+  width: 1330px;
+  height: 238px;
+  top: 1397px;
+  left: 69px;
+  background-color: #eef1f7;
+  border-radius: 40.5px;
+}
+
+.property-default .frame-8 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 420.55px 420.55px;
+  position: relative;
+  top: 53px;
+  left: 53px;
+}
+
+.property-default .frame-9 {
+  display: inline-flex;
+  align-items: center;
+  gap: 32.71px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .gol-koy {
+  position: relative;
+  width: 172px;
+  height: 128px;
+  object-fit: cover;
+}
+
+.property-default .frame-10 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24.92px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.56px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #292d32;
+  font-size: 46.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .frame-11 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 15.58px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.56px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #a9acb4;
+  font-size: 38.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .frame-12 {
+  display: inline-flex;
+  align-items: center;
+  gap: 15.58px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.property-default .vuesax-bold-tick {
+  position: relative;
+  width: 37.38px;
+  height: 37.38px;
+}
+
+.property-default .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #292d32;
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.property-default .frame-13 {
+  position: absolute;
+  width: 1330px;
+  height: 238px;
+  top: 1106px;
+  left: 57px;
+  background-color: #eef1f7;
+  border-radius: 40px;
+}
+
+.property-default .group-3 {
+  position: relative;
+  width: 46px;
+  height: 52px;
+}
+
+.button-column {
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.primary-button {
+  width: 25rem;
+  height: 5rem;
+  font-size: 2.2rem;
+  line-height: 1.2;
+  color: #54575c;
+  background-color: transparent;
+  border: 1px solid #cbd0dc;
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.primary-button:hover {
+  background-color: #cbd0dc;
+}
