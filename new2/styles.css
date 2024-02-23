@@ -1,0 +1,163 @@
+body {
+  background-color: rgb(205, 200, 200);
+}
+
+#container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#whiteBox {
+  width: 697px;
+  height: 692px;
+  background-color: white;
+  border-radius: 8px
+}
+
+.upper {
+  width: 100%;
+  width: 700;
+  height: 100;
+}
+
+.text {
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold;
+  text-indent: -226px;
+  text-align: center;
+  top: 1px;
+  position: relative;
+  left: -103;
+}
+
+.text-two {
+  width: 100%;
+  color: rgb(200, 200, 200);
+  text-indent: 75px;
+  float: 160px;
+  position: absolute;
+  top: 50px;
+}
+
+.text3 {
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold;
+  text-indent: -226px;
+  text-align: center;
+  top: 1px;
+  position: relative;
+  left: -103;
+}
+
+text4 {
+  width: 100%;
+  color: rgb(200, 200, 200);
+  text-indent: 75px;
+  float: 160px;
+  position: absolute;
+  top: 50px;
+}
+
+.img {
+  width: 100%;
+  position: relative;
+  top: 85px;
+  right: auto;
+  bottom: auto;
+  width: 60px;
+  height: 66px;
+  left: 4px;
+  inset: -62px auto auto 4px
+}
+
+.img-two {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: -107px;
+  left: 613px
+}
+
+.col {
+  width: 465px;
+  height: 323px;
+  border: 4px;
+  border-style: dashed;
+  border-color: rgb(182, 180, 180);
+  border-radius: 5px;
+  position: relative;
+  margin: auto;
+  top: 60px;
+}
+
+.choose {
+  width: 402px;
+  height: 181px;
+  margin: auto;
+  padding: 73px;
+}
+
+.cloud {
+  width: 34px;
+  height: 30px;
+  position: relative;
+  top: -30px;
+  left: 143px;
+  right: 0px;
+}
+
+.btn {
+  width: 110px;
+  height: 50px;
+  font-size: medium;
+  text-align: center;
+  border-radius: 2px;
+  border-color: gainsboro;
+  border-style: solid;
+  border-radius: 5px;
+  top: 42px;
+  position: relative;
+  left: 100px;
+}
+
+.image {
+  background-color: gainsboro;
+  width: 550px;
+  height: 65px;
+  border-radius: 5px;
+  top: 75px;
+  left: 75px;
+  position: relative;
+}
+
+.card {
+  width: 500px;
+  height: 50px;
+  border-radius: 5px;
+  top: 7px;
+  left: 70px;
+  position: relative;
+}
+
+h5 {
+  color: rgb(110, 103, 103);
+  position: relative;
+  top: -100px;
+  left: 2px;
+}
+
+.demo {
+  width: 50px;
+  height: 66px;
+}
+
+h2 {
+  position: relative;
+  top: -90px;
+  left: 2px;
+}
